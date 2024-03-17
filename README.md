@@ -1,26 +1,38 @@
-# VideoApp
+# VideoApp - Angular with video.js
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.1.4.
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.1.4. And this project demonstrates the usage of video.js in Angular.
 
-## Development server
+## Installation
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+1. **Clone the repository:**
 
-## Code scaffolding
+   ```bash
+   git clone https://github.com/gunawanpr/VideoJs.git
+   ```
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+2. **Navigate to the project directory:**
 
-## Build
+   ```bash
+   cd VideoJs
+   ```
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+3. **Install dependencies:**
 
-## Running unit tests
+   ```bash
+   npm install
+   ```
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+4. **Start the development server:**
 
-## Running end-to-end tests
+   ```bash
+   ng serve
+   ```
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+5. **Open your browser and navigate to [http://localhost:4200](http://localhost:4200) to see the application running.**
+
+## Deployment
+
+This project is deployed on the Vercel platform because it's very easy to deploy.
 
 ## Further help
 
